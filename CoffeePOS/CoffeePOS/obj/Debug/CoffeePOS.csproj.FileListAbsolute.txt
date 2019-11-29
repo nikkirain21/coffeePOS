@@ -1,0 +1,10 @@
+C:\Users\Ken\source\repos\CoffeePOS\CoffeePOS\bin\Debug\CoffeePOS.exe.config
+C:\Users\Ken\source\repos\CoffeePOS\CoffeePOS\bin\Debug\CoffeePOS.exe
+C:\Users\Ken\source\repos\CoffeePOS\CoffeePOS\bin\Debug\CoffeePOS.pdb
+C:\Users\Ken\source\repos\CoffeePOS\CoffeePOS\obj\Debug\CoffeePOS.csprojAssemblyReference.cache
+C:\Users\Ken\source\repos\CoffeePOS\CoffeePOS\obj\Debug\CoffeePOS.Form1.resources
+C:\Users\Ken\source\repos\CoffeePOS\CoffeePOS\obj\Debug\CoffeePOS.Properties.Resources.resources
+C:\Users\Ken\source\repos\CoffeePOS\CoffeePOS\obj\Debug\CoffeePOS.csproj.GenerateResource.cache
+C:\Users\Ken\source\repos\CoffeePOS\CoffeePOS\obj\Debug\CoffeePOS.csproj.CoreCompileInputs.cache
+C:\Users\Ken\source\repos\CoffeePOS\CoffeePOS\obj\Debug\CoffeePOS.exe
+C:\Users\Ken\source\repos\CoffeePOS\CoffeePOS\obj\Debug\CoffeePOS.pdb
